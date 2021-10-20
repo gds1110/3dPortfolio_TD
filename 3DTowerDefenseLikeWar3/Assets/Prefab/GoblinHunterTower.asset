@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbbfc3005347828498edc5704b85985e, type: 3}
+  m_Name: GoblinHunterTower
+  m_EditorClassIdentifier: 
+  type: 1
+  icon: {fileID: 21300000, guid: 2e38f2a3cd88f9e48804c18f6753270b, type: 3}
+  towerPrefab: {fileID: 9141148634847343865, guid: 39069d8a8d5cb1c4bb4be7c6c7b0fdc7, type: 3}
+  projectilePrefab: {fileID: 3406427428861619283, guid: 296b5e7cbae15b54987dac7c1efeb189, type: 3}
+  index: 0
+  dmg: 2
+  towerName: GoblinHunter
+  range: 4
+  coolDown: 1.5
+  buildGold: 3
+  towerType: 1

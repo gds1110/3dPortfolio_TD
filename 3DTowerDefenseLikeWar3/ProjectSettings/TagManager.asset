@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Tower
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 3DUI
+  - Water
+  - UI
+  - Unwalkable
+  - Wall
+  - Nodes
+  - ignoreLayer
+  - Tower
+  - Enemy
+  - StartPoint
+  - Goal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - ShowNode
+  - NoShowNode
+  m_SortingLayers:
+  - name: New Layer
+    uniqueID: 3295907197
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
